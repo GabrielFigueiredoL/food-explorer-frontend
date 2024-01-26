@@ -3,6 +3,8 @@
 
 Frontend utilizado no projeto food explorer, um aplicativo web que simula um menu online de um restaurante.
 
+Para acessar o site, clique [aqui](https://magnificent-dragon-f7703a.netlify.app/)
+
 
 
 
